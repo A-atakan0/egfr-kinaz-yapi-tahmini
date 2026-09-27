@@ -1,0 +1,4 @@
+results/EGFR_kinase_output/
+results/*.zip
+__pycache__/
+*.pyc

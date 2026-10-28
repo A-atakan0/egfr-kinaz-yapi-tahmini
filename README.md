@@ -1,7 +1,5 @@
 # EGFR Kinase Domain: 3D Structure Prediction and Validation
 
-> 🇹🇷 **Türkçe özet:** İnsan EGFR proteininin kinaz domaininin (aa 712–979) 3B yapısı ColabFold (AlphaFold2) ile tahmin edilmiş, PyMOL ile görselleştirilmiş ve InterProScan ile bağımsız olarak doğrulanmıştır. En iyi model pLDDT 91.1 ile "çok yüksek güven" aralığındadır.
-
 ![ColabFold](https://img.shields.io/badge/prediction-ColabFold%20%2F%20AlphaFold2-orange) ![PyMOL](https://img.shields.io/badge/visualisation-PyMOL-blue)
 
 ## Objective
